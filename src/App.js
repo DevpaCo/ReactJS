@@ -1,9 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-class App extends React.Component {
+export default class App extends Component {
 	render() {
-		return 'Devpa Co., ReactJS';
+		return 'Devpa Co. Practice on ReactJS with Stateful Component';
 	}
-}
+};
 
-export default App;
