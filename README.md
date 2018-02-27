@@ -1,4 +1,4 @@
 Devpa Co. : ReactJS
 
-Practice on React
+Practice on ReactJS Core
 
